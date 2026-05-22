@@ -5,12 +5,13 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 
 ## 📝 Project Overview
-This project focuses on analyzing recipe data and building a Machine Learning model to predict **which recipes will generate high web traffic**. By understanding user preferences and recipe characteristics, the product team can make data-driven decisions on which recipes to feature on the homepage, ultimately increasing user engagement and overall website traffic.
+This project was completed as part of the **DataCamp Certified Professional Data Scientist practical exam**. It focuses on analyzing recipe data and building a Machine Learning model to predict which recipes will generate high web traffic. By understanding user preferences and recipe characteristics, the product team can make data-driven decisions on which recipes to feature on the homepage, ultimately increasing user engagement and overall website traffic. 
 
 ## 📂 Repository Structure
 *   `Recipe Site Raffic Prediction.ipynb` 📓: The main Jupyter Notebook containing the entire data science workflow, including Exploratory Data Analysis (EDA), data cleaning, feature engineering, model training, and evaluation.
 *   `recipe_site_traffic_2212.csv` 📊: The raw dataset containing recipe attributes (e.g., calories, carbohydrates, sugar, protein, recipe category) and the target variable indicating whether the recipe resulted in high traffic.
 *   `README.md` 📝: Project documentation.
+*   `Datacamp - Recipe Traffic Prediction.pdf` 📝: Project presentation slides.
 
 ## 🛠️ Tech Stack
 *   **Programming Language:** Python
