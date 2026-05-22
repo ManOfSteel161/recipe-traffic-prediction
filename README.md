@@ -11,7 +11,7 @@ This project was completed as part of the **DataCamp Certified Professional Data
 *   `Recipe Site Raffic Prediction.ipynb` 📓: The main Jupyter Notebook containing the entire data science workflow, including Exploratory Data Analysis (EDA), data cleaning, feature engineering, model training, and evaluation.
 *   `recipe_site_traffic_2212.csv` 📊: The raw dataset containing recipe attributes (e.g., calories, carbohydrates, sugar, protein, recipe category) and the target variable indicating whether the recipe resulted in high traffic.
 *   `README.md` 📝: Project documentation.
-*   `Datacamp - Recipe Traffic Prediction.pdf` 📝: Project presentation slides.
+*   `presentation / Datacamp - Recipe Traffic Prediction.pdf` 📝: Project presentation slides.
 
 ## 🛠️ Tech Stack
 *   **Programming Language:** Python
